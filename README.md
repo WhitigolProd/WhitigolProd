@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript & PHP**
 
-- 📫 Email me at **whitetigerwolfthe1st@gmail.com**
+- 📫 Reach me by Discord **Whitigol#2122**
 
 
 <h3 align="left">Languages and Tools:</h3>
