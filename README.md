@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SnailyCAD Manager](https://github.com/WhitigolProd/SnailyCAD-Manager)
 
-- 🌱 I’m currently learning **TypeScript & PHP**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 Reach me by Discord **Whitigol#2122**
 
@@ -24,5 +24,4 @@
 <h3 align="left">Learning:</h3>
 <div display="flex">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 </div>
