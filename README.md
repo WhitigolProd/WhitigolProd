@@ -24,4 +24,5 @@
 <h3 align="left">Learning:</h3>
 <div display="flex">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 </div>
