@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whitigol</h1>
 <h3 align="center">A 19 y/o passionate frontend developer from the United States</h3>
 
-- 🔭 I’m currently working on [SnailyCAD Manager v2](https://github.com/WhitigolProd/SnailyCAD-Manager) & [SnailyCAD Manager v3](https://github.com/WhitigolProd/SnailyCAD-Manager-v3)
+- 🔭 I’m currently working on [SnailyCAD Manager v2](https://github.com/WhitigolProd/SnailyCAD-Manager) & [SnailyCAD Manager v3](https://github.com/WhitigolProd/SnailyCAD-Manager-v3), as well as my first Portfolio Project ([Whitigol.me](https://github.com/WhitigolProd/whitigol.me))
 
 - 🌱 I’m currently learning **TypeScript**
 
