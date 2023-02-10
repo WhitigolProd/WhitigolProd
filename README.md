@@ -27,3 +27,8 @@
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
 </div>
+
+<h3 align="center">My GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitigolprod&show_icons=true&theme=dark"/>
+</div>
