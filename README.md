@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Whitigol</h1>
-<h3 align="center">A 20 y/o passionate frontend developer from the United States</h3>
+<h3 align="center">A 20 y/o frontend developer from the United States</h3>
 
-- 🔭 I’m currently working on [SnailyCAD Manager v2](https://github.com/WhitigolProd/SnailyCAD-Manager) & [SnailyCAD Manager v3](https://github.com/WhitigolProd/SnailyCAD-Manager-v3), as well as my first Portfolio Project ([Whitigol.me](https://github.com/WhitigolProd/whitigol.me))
+- 🔭 I’m currently working on [SnailyCAD Manager v3](https://github.com/WhitigolProd/SnailyCAD-Manager-v3)
 
-- 🌱 I’m currently learning **Next.js App Router**
+- 🌱 I’m currently learning **Everything ✨**
 
-- 📫 Reach me by Discord **Whitigol#2122**
+- 📫 Reach me by Discord **@whitigol**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tool Belt:</h3>
 <div display="flex"> 
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -21,7 +21,8 @@
   <code><img height="30" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
+  <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg"></code>
 </div>
 
 <!--
