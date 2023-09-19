@@ -23,6 +23,7 @@
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
   <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg"></code>
 </div>
 
 <!--
