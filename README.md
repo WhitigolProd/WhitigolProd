@@ -38,3 +38,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whitigolprod&show_icons=true&theme=dark"/>
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitigolprod&layout=compact&theme=dark"/>
+</div>
