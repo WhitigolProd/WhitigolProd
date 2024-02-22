@@ -8,27 +8,25 @@
 - 📫 Reach me by Discord **@whitigol**
 
 
-### My Tool Belt:
+### My Tool Belt
 
-#### Frontend:
-![HTML](https://img.shields.io/badge/-HTML-222a36?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-222a36?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222a36?style=for-the-badge&logo=javascript)
+#### Frontend
+
 ![React](https://img.shields.io/badge/-React-222a36?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-222a36?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222a36?style=for-the-badge&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/-Sass-222a36?style=for-the-badge&logo=sass)
 ![Mantine](https://img.shields.io/badge/-Mantine-222a36?style=for-the-badge&logo=mantine)
 
 #### Backend:
+
 ![Node.js](https://img.shields.io/badge/-Node.js-222a36?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-222a36?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222a36?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-222a36?style=for-the-badge&logo=mysql)
 ![Prisma](https://img.shields.io/badge/-Prisma-222a36?style=for-the-badge&logo=prisma)
 
+#### Tools
 
-#### Tools:
 ![Git](https://img.shields.io/badge/-Git-222a36?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222a36?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-222a36?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
@@ -38,6 +36,21 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-222a36?style=for-the-badge&logo=adobe-photoshop)
 ![Discord](https://img.shields.io/badge/-Discord-222a36?style=for-the-badge&logo=discord)
 ![Trello](https://img.shields.io/badge/-Trello-222a36?style=for-the-badge&logo=trello&logoColor=0079BF)
+
+#### Operating Systems
+
+![Windows](https://img.shields.io/badge/-Windows-222a36?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-222a36?style=for-the-badge&logo=ubuntu)
+
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-222a36?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222a36?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-222a36?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-222a36?style=for-the-badge&logo=css3)
+![scss/sass](https://img.shields.io/badge/-Scss-222a36?style=for-the-badge&logo=sass)
+
+
 
 <h3 align="center">My GitHub Stats</h3>
 <div align="center">
