@@ -63,5 +63,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitigolprod&layout=compact&theme=dark"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=WhitigolProd&theme=dark&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=WhitigolProd&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </div>
