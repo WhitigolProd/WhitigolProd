@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Whitigol</h1>
-<h3 align="center">A 20 y/o frontend developer from the United States</h3>
+<h3 align="center">A 21 y/o frontend developer from the United States</h3>
 
 - 🔭 I’m currently working on [SnailyCAD Manager v3](https://github.com/SnailyCAD-Manager/manager)
 
